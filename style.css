@@ -496,7 +496,7 @@ footer .s4 div img:hover{
 /* button scroll down */
 .scroll-down{
     position: absolute;
-    left: 50%;
+    left: 49%;
     bottom: 1cm;
     transform: translateX(-50%);
     font-size: 30px;
